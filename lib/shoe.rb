@@ -7,8 +7,7 @@ BRANDS = [ ]
   def initialize(brand)
     @brand = brand
     if BRANDS.include?(brand)
-    BRANDS << brand
-  else BRANDS.include?(unique brands)
+    else 
     BRANDS << unique brands
   end
   end
