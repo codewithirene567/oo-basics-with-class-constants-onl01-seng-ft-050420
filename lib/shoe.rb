@@ -8,7 +8,7 @@ BRANDS = [ ]
     @brand = brand
     if BRANDS.include?(brand)
     else 
-    BRANDS << unique brands
+    BRANDS << brand
   end
   end
 
